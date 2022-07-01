@@ -48,7 +48,7 @@
     "apollo": "^2.30.2"
   },
   "main": "src/index.js",
-  "author": "Raphael Terrier @R4ph-t",
+  "author": "NNN",
   "license": "MIT",
     "engines": {
     "node": "16.x"
